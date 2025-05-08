@@ -1,0 +1,15 @@
+1. Write Java code as instructed.  
+Define class Employee that has the following members. – String name, double salary as 
+instance variables – Constructor to initialize the instance variables – Define copy constructor 
+such that it initialize variables name and salary using parameter e • Define class CopyCon that 
+has the main method. – Create an object e1 of Employee. – Create one more object e2 of 
+Employee by passing e1 as parameter to the copy constructor – Display the variable values for 
+both e1 and e2 Employee . 
+
+2. Write Java code as instructed. [Copy Constructor]  
+• Define class Employee that has the following members.  – String name, double salary as private instance variables  – Constructor to initialize the instance variables  – Overload constructor public Employee(Employee e), such that it initialize variables 
+name and salary using parameter e  
+Define a method that returns the name and salary of the Employee as a single 
+concatenated string  
+• Define class Main1 that has the main method. – Create an object e1 of Employee. – Create one more object e2 of Employee by passing e1 as parameter to the overloaded 
+constructor – Display e1 and e2 
